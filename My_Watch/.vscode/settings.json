@@ -1,0 +1,14 @@
+{
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.armToolchainPath": false,
+    "files.associations": {
+        "ui_datetimesetpage.h": "c",
+        "lv_port_disp.h": "c",
+        "hwdataaccess.h": "c",
+        "user_tasksinit.h": "c",
+        "stm32f4xx_it.h": "c",
+        "datasave.h": "c",
+        "lv_port_indev.h": "c"
+    }
+}
